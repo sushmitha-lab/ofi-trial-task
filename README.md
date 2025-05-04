@@ -19,7 +19,7 @@ This project implements the following Order Flow Imbalance (OFI) features:
 - `conceptual_answers.pdf`: LaTeX answers to the theory questions
 
 ## How to Run
-1. Open the Colab notebook
-2. Upload `first_25000_rows.csv` when prompted
-3. Run all cells to generate and export OFI features
+1. Used Colab notebook
+2. Uploaded `first_25000_rows.csv` file
+3. Runned all cells to generate and export OFI features
 
